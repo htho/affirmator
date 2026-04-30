@@ -1,0 +1,8 @@
+{
+    "include": ["./**/*.js", "./**/*.d.ts", "logs/analysis.mjs"],
+    "compilerOptions": {
+        "target": "esnext",
+        "checkJs": true,
+        "strict": true,
+    }
+}
